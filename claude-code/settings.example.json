@@ -1,0 +1,6 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.teapotrouter.com",
+    "ANTHROPIC_AUTH_TOKEN": "sk-你的key"
+  }
+}
