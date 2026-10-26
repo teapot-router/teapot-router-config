@@ -10,6 +10,12 @@ Teapot Router 是面向开发者的 AI API 网关（gateway / 中转）：
 - **按量计费**：价格表公开挂在[官网](https://teapotrouter.com/#ledger)，余额按 token 扣
 - **key 管理**：后台随时吊销 / 重建，团队可发子 key + 额度 + 审计日志
 
+## 不想自己搭中转服务？
+
+上面的模板就是为 [Teapot Router](https://teapotrouter.com) 准备的——它是 **claude-relay-service 这类自建方案的托管版**：注册即用，无需自己维护服务器、渠道和支付；Claude Code + OpenAI SDK 双协议一个 Key，按量计费、价格公开（[价格表](https://teapotrouter.com/#ledger)），企业功能（组织授权发 Key / 审计日志）内置。
+
+自建适合喜欢折腾的人；只想稳定用模型的话，托管版更省心。
+
 ## Claude Code（二选一）
 
 **方式 A：环境变量**
