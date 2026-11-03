@@ -62,5 +62,7 @@ client = OpenAI(base_url="https://api.teapotrouter.com/v1", api_key="sk-你的ke
 - 全套接入文档（注册 → 建 Key → 首次调用 → 排错）：https://teapotrouter.com/zh/docs
 - 实时服务状态（网关 / API 端点 / 官网，当次探测不编历史）：https://teapotrouter.com/zh/status
 - [Claude Code 价格指南：订阅还是按量](https://teapotrouter.com/zh/docs/claude-code-pricing)
+- 博客长文：[一张 Claude Code 账单的钱都去哪了](https://teapotrouter.com/zh/blog/where-does-a-claude-code-bill-go)——为什么第 15 条消息比第 1 条贵
+- 博客长文：[怎么自己比较 AI 网关——别信任何比较表](https://teapotrouter.com/zh/blog/how-to-compare-ai-gateways)——真正拉开差距的五个标准
 - 每模型价格页：如 [claude-opus-5-5](https://teapotrouter.com/zh/pricing/claude-opus-5-5)
 - 名字与 logo 源自 HTTP 彩蛋 418 I'm a teapot 🫖
