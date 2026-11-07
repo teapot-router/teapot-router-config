@@ -1,6 +1,14 @@
-# Teapot Router Config — Claude Code / OpenAI SDK 接入模板
+<div align="center">
+  <img src="assets/teapot-mark.svg" width="88" alt="Teapot Router — a clay seal with a forest-green teapot" />
+</div>
 
-给 [Teapot Router](https://teapotrouter.com)（AI API 网关）的配置模板合集：**改一行环境变量，Claude Code 和 OpenAI SDK 同时接入**。
+<h3 align="center">Teapot Router Config</h3>
+
+<p align="center">Claude Code / OpenAI SDK 接入模板 — <strong>改一行环境变量，两边同时接入</strong></p>
+
+---
+
+给 [Teapot Router](https://teapotrouter.com)（AI API 网关）的配置模板合集。
 
 > The stability-first AI gateway for Claude Code and GPT — one key, both protocols, pay-as-you-go. **Credit never expires.**
 
